@@ -18,8 +18,8 @@ Dexterity - pick locks, wield weapons with finesse, play instruments
 Agility - move your body with speed and grace
 
 #### MAGIC
-Resonance - connect to the world around you, align with concepts
-Coherence - 
+Resonance - connect to the world around you, align with concepts, cast more complex spells
+Coherence - remain true to oneself, cast stronger spells, hold more disparate aspects at once
 
 Characters begin with a score of 5 in each of these ten attributes, and may increase this score my spending a number of progression points corresponding to the new score: increasing Strength from 5 to 6 requires 6 progression points.
 
