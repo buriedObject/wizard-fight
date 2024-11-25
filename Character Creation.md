@@ -9,16 +9,16 @@ All Characters have ten basic attributes which summarize the scope of their capa
 Focus - offensive spellcasting resource, maintain concentration despite distraction, 
 Willpower - ability to resist mental effects, defend against spell attacks
 Acumen - mental reaction and calculation speed, 
-Intuition - draw conclusions, 
+Intuition - come to conclusions and make connections
 
 #### BODY
-Strength - 
+Strength - move large objects and apply great force
 Endurance - defensive physical resource
-Dexterity - 
-Agility - 
+Dexterity - pick locks, wield weapons with finesse, play instruments
+Agility - move your body with speed and grace
 
 #### MAGIC
-Resonance - 
+Resonance - connect to the world around you, align with concepts
 Coherence - 
 
 Characters begin with a score of 5 in each of these ten attributes, and may increase this score my spending a number of progression points corresponding to the new score: increasing Strength from 5 to 6 requires 6 progression points.
