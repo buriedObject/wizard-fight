@@ -24,9 +24,15 @@ let's take a few simple spells and see what distinctions seem useful in particul
 
 Flame Slash
 
+
+
 Puddle Jump
 
+
+
 Between Two Moments
+
+
 
 My Body Has Become a Temple
 
