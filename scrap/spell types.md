@@ -8,3 +8,31 @@ enhancement
 	
 
 
+
+
+
+
+
+
+
+
+
+how to categorize spells?
+let's take a few simple spells and see what distinctions seem useful in particular contexts:
+
+
+
+Flame Slash
+
+Puddle Jump
+
+Between Two Moments
+
+My Body Has Become a Temple
+
+
+
+
+
+
+
