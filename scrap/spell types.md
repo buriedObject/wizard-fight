@@ -8,10 +8,13 @@ enhancement
 	
 
 
-
-
-
-
+potential categories:
+**aspect**
+range
+duration/length of casting process
+danger/potential harm
+effects
+manifestation (projectile, aura, area, etc.)
 
 
 
