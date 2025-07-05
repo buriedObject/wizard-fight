@@ -23,14 +23,15 @@ manifestation (projectile, aura, area, etc.)
 how to categorize spells?
 let's take a few simple spells and see what distinctions seem useful in particular contexts:
 
-
-
 Flame Slash
+The caster slashes with open palm and the spell creates a wide arc of flame following the motion. Range and temperature vary according to caster's Coherence and their proficiency with the spell and aspect.
 
 
+Earth Wall
+The caster places both hands on the ground and the spell creates a wall of earth extending from a connected surface. Size, range, and thickness vary according to Coherence and proficiency.
 
 Puddle Jump
-
+The caster can submerge themself within any pool of water that is big enough around to fit their body - depth is inconsequential. After doing so, the caster can emerge from any "connected" pool of water within a certain range. Range increases according to Coherence and definition of "connected" varies according to proficiency and Resonance.
 
 
 Between Two Moments
