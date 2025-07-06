@@ -2,14 +2,20 @@ Though all spells are unique in some ways, every spell can be categorized accord
 
 Though specific terminology differs according to school, most agree that there are innumerable aspects, many of which change subtly from culture to culture and even from caster to caster. 
 
-More strictly, however, spells 
+More strictly, however, spells are categorized according to their **type** as defined by the spell circle used to create them. The type of a spell generally describes its manner of manifestation: a Fire-aspected projectile spell like Fireball appears as a ball of roaring flame the caster may launch in any direction, while a Fire-aspected knowledge spell might allow a caster to stare into the fire created by burning an effigy of a person and see their current activities OR to sense nearby flames.
+
+Rather than describe its effects, a spell's type might instead describe its method of casting: a mantra, for example, is a type of spell that casters must chant and that generally grows stronger with repetition. 
 
 
 
 Types:
 
 Area
+Binding
+Curse
+Knowledge
 Mantra
 Projectile
 Spell Chain
 Target
+Ward?
