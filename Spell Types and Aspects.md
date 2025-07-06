@@ -17,5 +17,6 @@ Knowledge
 Mantra
 Projectile
 Spell Chain
+
 Target
-Ward?
+Ward

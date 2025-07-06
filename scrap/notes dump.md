@@ -14,34 +14,37 @@ a curse is a spell that remains indefinitely after casting, contains its own int
   
 
 sympathetic magic
-law of contagion
-law of similarity
-theory of correspondence
+Law of Contagion
+Law of Similarity
+Theory of Correspondence
 
   
 personal ward against target spells with hostile intentions?
 
   
 
-target - create a pillar of fire that follows the target until extinguished
 
-projectile - create a ball of fire and launch it in a direction
 
-curse - burn all the food they cook
-
-area - create a 2 foot cube of fire
-
-farsight - grant the caster thermal vision
+area - create a 1 meter cube of fire
 
 knowledge - sense all flames within 100 meters
 
 binding - whenever object A is lit on fire, object B will spontaneously combust
 
+curse - burn all the food they cook
+
+farsight - grant the caster thermal vision
+
+mantra - caster gains increasing immunity to heat and hands grow hotter and hotter
+
+projectile - create a ball of fire and launch it in a direction
+
 spell chain - summon fire in the shape of a tree, create a grove of flaming trees, summon fiery hounds from within the grove
+
+target - create a pillar of fire that follows the target until extinguished
 
 ward - set intruder on fire
 
-mantra - caster gains increasing immunity to heat and hands grow hotter and hotter
 
 
 my body is a temple! add back in ramping xd4 effect
