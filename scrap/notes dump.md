@@ -1,3 +1,58 @@
+#### WF - type dump
+spells by default affect the soul of the caster - a mantra works only on the person casting it unless otherwise noted by assigning an additional type like area or target.
+
+
+mantra - self buff
+
+mantra, area - e.g. gradually drain the vital energy out of all things within a 3 meter sphere
+
+mantra, target - ally buff or enemy debuff
+
+
+a curse is a spell that remains indefinitely after casting, contains its own intelligence (sapience? sentience?), and works through the law of contagion to continue its active effects both on the target and everything the target comes into contact with. technically, a curse could enact positive effect, but generally this is much more expensive than a negative effect.
+
+  
+
+sympathetic magic
+law of contagion
+law of similarity
+theory of correspondence
+
+  
+personal ward against target spells with hostile intentions?
+
+  
+
+target - create a pillar of fire that follows the target until extinguished
+
+projectile - create a ball of fire and launch it in a direction
+
+curse - burn all the food they cook
+
+area - create a 2 foot cube of fire
+
+farsight - grant the caster thermal vision
+
+knowledge - sense all flames within 100 meters
+
+binding - whenever object A is lit on fire, object B will spontaneously combust
+
+spell chain - summon fire in the shape of a tree, create a grove of flaming trees, summon fiery hounds from within the grove
+
+ward - set intruder on fire
+
+mantra - caster gains increasing immunity to heat and hands grow hotter and hotter
+
+
+my body is a temple! add back in ramping xd4 effect
+
+
+caster must complete a spell chain without interruption or else face backlash depending on the chain
+
+add some kind of sustain/concentration type? or just note in spell?
+
+
+10 Endurance, 10 Focus, 5 in everything else
 #### WF - brainstorm (2/2/25)
 time magic
 
