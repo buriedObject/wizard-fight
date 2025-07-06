@@ -7,7 +7,12 @@ Empty Hand
 Brawler
 
 
-
+battle caster 
+staff
+swords
+brawler
+grappler
+(eight diagram) pole fighter
 
 
 
