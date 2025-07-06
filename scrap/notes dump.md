@@ -77,17 +77,14 @@ different people use different verbal incantations for the same spell!
 while individual spells are defined by aspect and complexity, spells as a whole are generally sorted into groups referred to as “spellbooks” - whether those are actual books, scrolls, lists maintained by oral tradition, or other more exotic arrays.
 
 SPELLBOOKS
-
 - Textbooks from the Royal Academy, sorted by course
-
-- these spells are often more formulaic and generic - a “magic missile” equivalent for each of the main elemental aspects, attacks that deal a set amount of damage, basic bread and butter spells
-
+	- these spells are often more formulaic and generic - a “magic missile” equivalent for each of the main elemental aspects, attacks that deal a set amount of damage, basic bread and butter spells
 - Notebooks or logs kept by inventors, mad spell crafters, and traveling sages
 - Domain specific spell books used by professionals and guild members
-
-- Miners who use substance-based farsight divination spells to prospect for valuable ores
-- Assassins and thieves
-- Firefighters
+	- Miners who use substance-based farsight divination spells to prospect for valuable ores
+	- Assassins and thieves
+	- Firefighters
+	- 
 
 Fjodor Merkuri
 
