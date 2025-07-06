@@ -41,7 +41,7 @@ Between Two Moments
 
 
 
-My Body Has Become a Temple
+My Body is a Temple
 
 
 
