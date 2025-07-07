@@ -1,0 +1,1 @@
+Aspects of reality can be categorized a number of different ways: the most salient to the aspiring archmage is categorization according to degree of complexity, commonly referred to as an aspect's "order."
