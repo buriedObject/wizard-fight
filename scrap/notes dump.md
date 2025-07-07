@@ -193,7 +193,12 @@ unorganized:
 - wave?
 - smoke?
 
-  
+
+**Celestial**
+- Stellar
+- Solar
+- Lunar
+
 
 **Force Manipulation**
 unorganized:
