@@ -1,3 +1,33 @@
+#### WF - nature of magic dump
+i want to develop more spells not linked to specific aspectual concerns - things like the Ajax shield or Sumerian cutting curse - new type - Attack? or aspect - Harm? Defense? under umbrella of Conceptual Cluster or smth?
+
+!!!!! iMPOIRTANT
+
+different clusters work differently according to the same laws of magic
+
+elemental cluster - magic user aligns their soul/psyche with elemental aspects using imagery and emotional manipulation/control. due to law of similarity, doing so creates effects analogous to the elements themselves
+
+
+there are MANY other avenues to creating and manipulating magical effects - even the elemental approach, though historically fundamental, has since been supplemented and expanded upon using some of these other approaches. spellforms and runic templates allow for types to give more structure to spellcasting, and centuries of repetition of common spells have worn the patterns of these workings into the world.
+
+why is this necessary? because doing divination trhough clunky "Future" aspected spells of the same form as elemental spells SUCKS
+
+
+
+ some examples outside of aspect + type construction
+spellform + will (for example knowledge type cantrips), unaspected application of will, manipulation of laws of contagion and similarity (voodoo doll, lock of hair love spells), theories of correspondence and alchemical solutions, PERFECT HOMUNCULUS FROM BLOOD CREST, 
+
+
+
+
+
+to make effects seem more magical apply non sequitur sensory details - wards breaking sound like shattering glass, incandescent bolt of light that leaves its own inverse behind, smell of falling snow
+
+
+
+
+
+barrier ward that reverses personal timeline on intrusion
 #### WF - point of magic dump
 magic allows for a much greater and more extreme spectrum of personal expression and identity among its users
 
