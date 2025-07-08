@@ -1,3 +1,27 @@
+#### WF - point of magic dump
+magic allows for a much greater and more extreme spectrum of personal expression and identity among its users
+
+sociological lens: magic reflects and in many cases amplifies pre-existing conflicts and tension.
+
+additionally properties/traits of spells besides type or aspect - is it sustained? reactive? offensive/defensive (is categorizing this possible or useful? if so - according to minimal harm?)
+
+
+animating a swarm of rocks to orbit the caster and intercept projectile spells automatically
+
+
+what is WF about?
+
+WF is about the joy and intricacies of magic - the thrill of winning a wizard’s  duel by the skin of your teeth, poring over arcane tomes to extract the knowledge within, learning spells and mastering them with experience and practice, slowly coming to command the world around you!
+
+  
+
+what is the intended play experience?
+
+players should have access to granular character options and diverse abilities (without being shoehorned into classes or archetypes) that allow them to pilot characters through journeys and adventures into worlds of magic and intrigue. large emphasis on creative problem solving and intelligent, empathetic gameplay!
+
+  
+
+what are the design goals to fulfill that intended play experience?
 #### WF - type dump
 spells by default affect the soul of the caster - a mantra works only on the person casting it unless otherwise noted by assigning an additional type like area or target.
 
