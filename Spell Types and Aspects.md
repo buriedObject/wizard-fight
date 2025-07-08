@@ -11,10 +11,20 @@ Rather than describe its effects, a spell's type might instead describe its meth
 Types:
 
 Area
+Boundary
 Curse
 Knowledge
-Mantra
 Projectile
-Spell Chain
 Target
-Ward
+
+
+properties:
+sustain
+binding
+ward ()
+reactive
+automatic?
+offense/defense/utility
+aura
+mantra
+spell chain
