@@ -11,12 +11,10 @@ Rather than describe its effects, a spell's type might instead describe its meth
 Types:
 
 Area
-Binding
 Curse
 Knowledge
 Mantra
 Projectile
 Spell Chain
-
 Target
 Ward
