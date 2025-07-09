@@ -13,6 +13,7 @@ Types:
 Area
 Boundary
 Curse
+Gesture
 Knowledge
 Projectile
 Target
