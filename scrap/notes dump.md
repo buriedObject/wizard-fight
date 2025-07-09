@@ -9,6 +9,11 @@ third order = complex
 etc... = extended
 
 
+Nine Heavens Astral Blade
+
+blade arts? incorporation of elemental aspects into martial techniques?
+
+
 !!!!! IMPORTANT
 
 different clusters work differently according to the same laws of magic
