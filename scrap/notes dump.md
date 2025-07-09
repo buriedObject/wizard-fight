@@ -1,6 +1,17 @@
 #### WF - nature of magic dump
 i want to develop more spells not linked to specific aspectual concerns - things like the Ajax shield or Sumerian cutting curse - new type - Attack? or aspect - Harm? Defense? under umbrella of Conceptual Cluster or smth?
 
+
+
+
+elemental aspect orders = nodes more generally
+first order node = simple elements
+second order = compound
+third order = complex
+etc... = extended
+
+
+
 !!!!! iMPOIRTANT
 
 different clusters work differently according to the same laws of magic
@@ -16,6 +27,7 @@ why is this necessary? because doing divination trhough clunky "Future" aspected
 
  some examples outside of aspect + type construction
 spellform + will (for example knowledge type cantrips), unaspected application of will, manipulation of laws of contagion and similarity (voodoo doll, lock of hair love spells), theories of correspondence and alchemical solutions, PERFECT HOMUNCULUS FROM BLOOD CREST, 
+
 
 
 
