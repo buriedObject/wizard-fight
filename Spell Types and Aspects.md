@@ -30,3 +30,6 @@ offense/defense/utility
 aura
 mantra
 spell chain
+arcane/esoteric
+cutting
+shield
