@@ -1,7 +1,7 @@
 #### WF - nature of magic dump
 i want to develop more spells not linked to specific aspectual concerns - things like the Ajax shield or Sumerian cutting curse - new type - Attack? or aspect - Harm? Defense? under umbrella of Conceptual Cluster or smth?
 
-!!!!! iMPOIRTANT
+!!!!! IMPORTANT
 
 different clusters work differently according to the same laws of magic
 
