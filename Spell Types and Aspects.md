@@ -12,8 +12,6 @@ Types:
 
 Area
 Boundary
-Curse
-Gesture
 Knowledge
 Projectile
 Target
@@ -22,6 +20,7 @@ Target
 
 properties:
 sustain
+curse
 binding
 ward ()
 reactive
@@ -33,3 +32,6 @@ spell chain
 arcane/esoteric
 cutting
 shield
+buff/debuff
+touch
+
